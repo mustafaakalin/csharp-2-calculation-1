@@ -1,0 +1,14 @@
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/bin/Debug/net8.0/csharp-2-calculation-1
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/bin/Debug/net8.0/csharp-2-calculation-1.deps.json
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/bin/Debug/net8.0/csharp-2-calculation-1.runtimeconfig.json
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/bin/Debug/net8.0/csharp-2-calculation-1.dll
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/bin/Debug/net8.0/csharp-2-calculation-1.pdb
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.AssemblyInfoInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.AssemblyInfo.cs
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.csproj.CoreCompileInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.dll
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/refint/csharp-2-calculation-1.dll
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.pdb
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/csharp-2-calculation-1.genruntimeconfig.cache
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-1/obj/Debug/net8.0/ref/csharp-2-calculation-1.dll
